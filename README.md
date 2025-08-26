@@ -1,4 +1,4 @@
-# Implementa-o-e-Demonstra-o-de-Criptografia-Assim-trica
+# Implementa o e Demonstra o de Criptografia Assim trica
 Repositório referente a seguinte atividade:
 
 Você deve implementar um exemplo prático de criptografia assimétrica utilizando o algoritmo RSA, desde a geração das chaves até a encriptação e decriptação de mensagens.
